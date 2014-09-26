@@ -268,3 +268,8 @@ pip-log.txt
 .mr.developer.cfg
 *.suo
 *.cache
+*.cache
+*.cache
+*.dll
+*.pdb
+*.cache
