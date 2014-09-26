@@ -11,10 +11,16 @@ namespace XYOL.MvcWeb.Controllers
         //
         // GET: /Account/
 
-        public ActionResult Index()
+
+        public ActionResult Login()
         {
             return View();
         }
+        public ActionResult Register()
+        {
+            return View();
+        }
+
 
     }
 }
