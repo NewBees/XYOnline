@@ -137,8 +137,8 @@
     <Content Include="Content\css\bj.jpg" />
     <Content Include="Content\css\home.css" />
     <Content Include="Content\css\index.css" />
-    <Content Include="Content\css\logo.jpg" />
     <Content Include="Content\css\search_btn.jpg" />
+    <Content Include="Content\css\logo.png" />
     <Content Include="Content\gg.swf" />
     <Content Include="Content\themes\base\images\ui-bg_flat_0_aaaaaa_40x100.png" />
     <Content Include="Content\themes\base\images\ui-bg_flat_75_ffffff_40x100.png" />
@@ -197,6 +197,7 @@
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
     <None Include="Scripts\jquery-1.7.1.intellisense.js" />
+    <Content Include="Scripts\curdate.js" />
     <Content Include="Scripts\jquery-1.7.1.js" />
     <Content Include="Scripts\jquery-1.7.1.min.js" />
     <None Include="Scripts\jquery.validate-vsdoc.js" />

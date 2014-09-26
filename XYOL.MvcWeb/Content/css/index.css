@@ -89,7 +89,7 @@ form{margin:0px; padding:0px;}
 .top1_3 .tg{ background:url(03.jpg) no-repeat 5px center;}
 
 .top2{height:88px; background:url(04.jpg) repeat-x;}
-.top2_1{ width:226px; height:88px; background:url(logo.jpg) no-repeat left center;}
+.top2_1{ width:226px; height:88px; background:url(logo.png) no-repeat left center;}
 .top2_2{ width:777px; height:88px;}
 .top2_2 ul{padding:14px;}
 .top2_2 ul li{ width:71px; float:left; line-height:30px; background:url(05.jpg) repeat-y right top;}
@@ -538,7 +538,7 @@ body fieldset.blue legend{padding:3px 8px;font-weight:700;color:#347add; backgro
 .header_content_2 .header_content_banner img{width:653px;height:75px;}
 .header_content_news{}
 .header_content_news ul{}
-.header_content_news ul li{height:25px;line-height:25px;margin:0 5px 0 5px;display:inline;}
+.header_content_news ul li{height:25px;line-height:25px;margin:0 20px;display:inline;}
 .header_content_3{width:165px;overflow:hidden;padding:10px 10px 0 0;}
 .header_content_3 ul{margin:0 auto;}
 .header_content_3 ul li{line-height:25px;height:25px;}
@@ -665,3 +665,5 @@ body fieldset.blue legend{padding:3px 8px;font-weight:700;color:#347add; backgro
 	text-decoration:none;
 	overflow:hidden;
 }
+
+.ad{text-align: center;border: 1px solid red;color: red;font-size: 20px;}
