@@ -273,3 +273,10 @@ pip-log.txt
 *.dll
 *.pdb
 *.cache
+*.dll
+*.dll
+*.pdb
+XYOL.MvcWeb/obj/Debug/XYOL.MvcWeb.pdb
+XYOL.MvcWeb/bin/XYOL.MvcWeb.dll
+*.dll
+*.dll
