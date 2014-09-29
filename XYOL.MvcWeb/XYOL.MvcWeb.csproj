@@ -138,6 +138,7 @@
     <Content Include="Content\css\09.jpg" />
     <Content Include="Content\css\10.jpg" />
     <Content Include="Content\css\11.jpg" />
+    <Content Include="Content\css\13.jpg" />
     <Content Include="Content\css\bj.jpg" />
     <Content Include="Content\css\home.css" />
     <Content Include="Content\css\index.css" />
@@ -218,6 +219,7 @@
     <Content Include="Scripts\knockout-2.1.0.js" />
     <Content Include="Scripts\modernizr-2.5.3.js" />
     <Content Include="Scripts\neww-Marquee.js" />
+    <Content Include="Scripts\se.js" />
     <Content Include="Scripts\_references.js" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
