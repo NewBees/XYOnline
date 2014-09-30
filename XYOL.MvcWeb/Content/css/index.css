@@ -1,4 +1,6 @@
-body{padding:0px;margin:0px;font-size:12px;FONT-FAMILY: "ËÎÌו",Arial Narrow,arial,serif; background:url(bj.jpg) repeat-x  center top;}
+body{padding:0px;margin:0px;font-size:12px;
+     /*FONT-FAMILY: "ËÎÌו",Arial Narrow,arial,serif;*/
+      background:url(bj.jpg) repeat-x  center top;}
 *,body{padding: 0px;margin:0 auto;}
 a:link,a:visited{color:#4b4b4b; text-decoration:none; font-size:12px;}
 a:hover{color:#0066FF; text-decoration:none; font-size:12px;}

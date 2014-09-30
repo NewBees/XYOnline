@@ -281,3 +281,7 @@ XYOL.MvcWeb/bin/XYOL.MvcWeb.dll
 *.dll
 *.dll
 *.cache
+*.dll
+*.dll
+*.pdb
+*.cache
